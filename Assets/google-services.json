@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "874399788949",
+    "project_id": "beach-racing-a6876",
+    "storage_bucket": "beach-racing-a6876.firebasestorage.app",
+    "firebase_url": "https://beach-racing-a6876-default-rtdb.firebaseio.com/"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874399788949:android:8b02395f9ebc8ecd45d09c",
+        "android_client_info": {
+          "package_name": "beachracing.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfmh0yHCTNDqyEUPZwug5PxvydiUo8MCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
